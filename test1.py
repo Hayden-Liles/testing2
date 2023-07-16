@@ -1,2 +1,4 @@
-print('happy days')
+def print():
+    for(x in 10):
+    
 

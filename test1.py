@@ -1,1 +1,1 @@
-print('happy days')
+print('happy nights')

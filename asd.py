@@ -1,2 +1,2 @@
 def print():
-    print("Hello!!!!")
+    print("COMMITING FAST WHO WOULD HAVE THOUGHT")

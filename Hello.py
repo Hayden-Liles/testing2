@@ -1,1 +1,2 @@
-hola amigo  # This is a comment
+def ayo():
+    print('AYO! This is a test.')
